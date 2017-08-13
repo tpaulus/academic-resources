@@ -35,6 +35,12 @@ a.navbar-brand > span.separator {
     padding-right: 5px;
 }
 
+.btn-alternative {
+    max-width: 90%;
+    margin: auto;
+    padding-top: .5rem;
+}
+
 /* Footer Styles*/
 .footer {
     position: absolute;
